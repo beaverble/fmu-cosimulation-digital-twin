@@ -1,0 +1,62 @@
+[
+  {
+    "thingId": "smartParking:Facility1",
+    "definition": "com.example.smartparking:Facility:1.0.0",
+    "attributes": {
+      "name": "예시 주차장",
+      "type": "실내주차장",
+      "location": "예시 주소",
+      "totalFloors": 5,
+      "totalSpaces": 200,
+      "disabledSpaces": 20,
+      "operationHours": "24시간 운영"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "open"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Facility2",
+    "definition": "com.example.smartparking:Facility:1.0.0",
+    "attributes": {
+      "name": "예시 주차장",
+      "type": "실내주차장",
+      "location": "예시 주소",
+      "totalFloors": 5,
+      "totalSpaces": 200,
+      "disabledSpaces": 20,
+      "operationHours": "24시간 운영"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "open"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Facility3",
+    "definition": "com.example.smartparking:Facility:1.0.0",
+    "attributes": {
+      "name": "예시 주차장",
+      "type": "실내주차장",
+      "location": "예시 주소",
+      "totalFloors": 5,
+      "totalSpaces": 200,
+      "disabledSpaces": 20,
+      "operationHours": "24시간 운영"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "open"
+        }
+      }
+    }
+  }
+]

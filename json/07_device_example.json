@@ -1,0 +1,35 @@
+{
+    "thingId": "com.example.smartparking:device1",
+    "definition": "com.example.smartparking:Device:1.0.0",
+    "attributes": {
+        "name": "Gateway Device 1",
+        "type": "Gateway"
+    },
+    "features": {
+        "status": {
+            "properties": {
+                "value": "connected"
+            }
+        },
+        "lastHeartbeat": {
+            "properties": {
+                "value": "2024-10-22T08:00:00Z"
+            }
+        },
+        "errorCode": {
+            "properties": {
+                "value": "none"
+            }
+        },
+        "batteryLevel": {
+            "properties": {
+                "value": 95.0
+            }
+        },
+        "signalStrength": {
+            "properties": {
+                "value": -65
+            }
+        }
+    }
+}

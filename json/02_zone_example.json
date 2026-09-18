@@ -1,0 +1,154 @@
+[
+  {
+    "thingId": "smartParking:Zone1",
+    "definition": "com.example.smartparking:Zone:1.0.0",
+    "attributes": {
+      "facilityId": "smartParking:Facility1",
+      "name": "예술의전당 지상A구역",
+      "location": "geojson",
+      "floorNumber": 1,
+      "totalSpaces": 50,
+      "disabledSpaces": 4
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "open"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Zone2",
+    "definition": "com.example.smartparking:Zone:1.0.0",
+    "attributes": {
+      "facilityId": "smartParking:Facility1",
+      "name": "예술의전당 지상B구역",
+      "location": "geojson",
+      "floorNumber": 1,
+      "totalSpaces": 50,
+      "disabledSpaces": 4
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "open"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Zone3",
+    "definition": "com.example.smartparking:Zone:1.0.0",
+    "attributes": {
+      "facilityId": "smartParking:Facility1",
+      "name": "예술의전당 지상C구역",
+      "location": "geojson",
+      "floorNumber": 1,
+      "totalSpaces": 40,
+      "disabledSpaces": 2
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "open"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Zone4",
+    "definition": "com.example.smartparking:Zone:1.0.0",
+    "attributes": {
+      "facilityId": "smartParking:Facility2",
+      "name": "예술의전당 지하1층A구역",
+      "location": "geojson",
+      "floorNumber": -1,
+      "totalSpaces": 50,
+      "disabledSpaces": 5
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "open"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Zone5",
+    "definition": "com.example.smartparking:Zone:1.0.0",
+    "attributes": {
+      "facilityId": "smartParking:Facility2",
+      "name": "예술의전당 지하1층B구역",
+      "location": "geojson",
+      "floorNumber": -1,
+      "totalSpaces": 50,
+      "disabledSpaces": 5
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "open"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Zone6",
+    "definition": "com.example.smartparking:Zone:1.0.0",
+    "attributes": {
+      "facilityId": "smartParking:Facility2",
+      "name": "예술의전당 지하2층A구역",
+      "location": "geojson",
+      "floorNumber": -2,
+      "totalSpaces": 50,
+      "disabledSpaces": 5
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "open"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Zone7",
+    "definition": "com.example.smartparking:Zone:1.0.0",
+    "attributes": {
+      "facilityId": "smartParking:Facility2",
+      "name": "예술의전당 지하2층B구역",
+      "location": "geojson",
+      "floorNumber": -2,
+      "totalSpaces": 50,
+      "disabledSpaces": 5
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "open"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Zone8",
+    "definition": "com.example.smartparking:Zone:1.0.0",
+    "attributes": {
+      "facilityId": "smartParking:Facility3",
+      "name": "예술의전당 지상D구역",
+      "location": "geojson",
+      "floorNumber": 1,
+      "totalSpaces": 20,
+      "disabledSpaces": 2
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "open"
+        }
+      }
+    }
+  }
+]

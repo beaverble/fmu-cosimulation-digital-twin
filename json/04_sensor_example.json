@@ -1,0 +1,7562 @@
+[
+  {
+    "thingId": "smartParking:Sensor001",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space001",
+      "name": "예술의전당 지상A구역 001 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 79.3
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor002",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space002",
+      "name": "예술의전당 지상A구역 002 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 93.9
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor003",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space003",
+      "name": "예술의전당 지상A구역 003 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 71.5
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor004",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space004",
+      "name": "예술의전당 지상A구역 004 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 79.5
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor005",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space005",
+      "name": "예술의전당 지상A구역 005 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 70.2
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor006",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space006",
+      "name": "예술의전당 지상A구역 006 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 79.5
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor007",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space007",
+      "name": "예술의전당 지상A구역 007 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 99.0
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor008",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space008",
+      "name": "예술의전당 지상A구역 008 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 93.8
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor009",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space009",
+      "name": "예술의전당 지상A구역 009 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 79.4
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor010",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space010",
+      "name": "예술의전당 지상A구역 010 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 92.3
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor011",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space011",
+      "name": "예술의전당 지상A구역 011 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 96.3
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor012",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space012",
+      "name": "예술의전당 지상A구역 012 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 77.9
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor013",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space013",
+      "name": "예술의전당 지상A구역 013 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 87.4
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor014",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space014",
+      "name": "예술의전당 지상A구역 014 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 95.4
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor015",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space015",
+      "name": "예술의전당 지상A구역 015 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 88.2
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor016",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space016",
+      "name": "예술의전당 지상A구역 016 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 74.7
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor017",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space017",
+      "name": "예술의전당 지상A구역 017 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 71.5
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor018",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space018",
+      "name": "예술의전당 지상A구역 018 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 92.6
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor019",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space019",
+      "name": "예술의전당 지상A구역 019 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 84.8
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor020",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space020",
+      "name": "예술의전당 지상A구역 020 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 96.4
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor021",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space021",
+      "name": "예술의전당 지상A구역 021 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 86.1
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor022",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space022",
+      "name": "예술의전당 지상A구역 022 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 78.5
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor023",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space023",
+      "name": "예술의전당 지상A구역 023 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 84.9
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor024",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space024",
+      "name": "예술의전당 지상A구역 024 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 87.9
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor025",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space025",
+      "name": "예술의전당 지상A구역 025 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 87.0
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor026",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space026",
+      "name": "예술의전당 지상A구역 026 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 95.7
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor027",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space027",
+      "name": "예술의전당 지상A구역 027 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 77.4
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor028",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space028",
+      "name": "예술의전당 지상A구역 028 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 89.0
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor029",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space029",
+      "name": "예술의전당 지상A구역 029 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 78.1
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor030",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space030",
+      "name": "예술의전당 지상A구역 030 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 84.9
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor031",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space031",
+      "name": "예술의전당 지상A구역 031 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 98.0
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor032",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space032",
+      "name": "예술의전당 지상A구역 032 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 76.7
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor033",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space033",
+      "name": "예술의전당 지상A구역 033 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 83.5
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor034",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space034",
+      "name": "예술의전당 지상A구역 034 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 79.8
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor035",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space035",
+      "name": "예술의전당 지상A구역 035 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 86.3
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor036",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space036",
+      "name": "예술의전당 지상A구역 036 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 94.4
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor037",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space037",
+      "name": "예술의전당 지상A구역 037 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 82.3
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor038",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space038",
+      "name": "예술의전당 지상A구역 038 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 77.4
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor039",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space039",
+      "name": "예술의전당 지상A구역 039 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 87.5
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor040",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space040",
+      "name": "예술의전당 지상A구역 040 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 86.9
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor041",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space041",
+      "name": "예술의전당 지상A구역 041 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 99.4
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor042",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space042",
+      "name": "예술의전당 지상A구역 042 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 78.9
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor043",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space043",
+      "name": "예술의전당 지상A구역 043 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 84.0
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor044",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space044",
+      "name": "예술의전당 지상A구역 044 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 85.4
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor045",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space045",
+      "name": "예술의전당 지상A구역 045 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 78.5
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor046",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space046",
+      "name": "예술의전당 지상A구역 046 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 70.9
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor047",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space047",
+      "name": "예술의전당 지상A구역 047 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 80.9
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor048",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space048",
+      "name": "예술의전당 지상A구역 048 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 91.8
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor049",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space049",
+      "name": "예술의전당 지상A구역 049 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 76.4
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor050",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space050",
+      "name": "예술의전당 지상A구역 050 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 86.4
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor051",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space051",
+      "name": "예술의전당 지상B구역 001 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 89.5
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor052",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space052",
+      "name": "예술의전당 지상B구역 002 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 85.6
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor053",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space053",
+      "name": "예술의전당 지상B구역 003 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 98.8
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor054",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space054",
+      "name": "예술의전당 지상B구역 004 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 99.9
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor055",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space055",
+      "name": "예술의전당 지상B구역 005 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 80.8
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor056",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space056",
+      "name": "예술의전당 지상B구역 006 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 85.5
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor057",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space057",
+      "name": "예술의전당 지상B구역 007 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 81.4
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor058",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space058",
+      "name": "예술의전당 지상B구역 008 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 78.0
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor059",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space059",
+      "name": "예술의전당 지상B구역 009 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 90.1
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor060",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space060",
+      "name": "예술의전당 지상B구역 010 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 97.0
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor061",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space061",
+      "name": "예술의전당 지상B구역 011 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 72.0
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor062",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space062",
+      "name": "예술의전당 지상B구역 012 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 73.7
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor063",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space063",
+      "name": "예술의전당 지상B구역 013 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 97.8
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor064",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space064",
+      "name": "예술의전당 지상B구역 014 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 90.1
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor065",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space065",
+      "name": "예술의전당 지상B구역 015 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 77.9
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor066",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space066",
+      "name": "예술의전당 지상B구역 016 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 72.3
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor067",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space067",
+      "name": "예술의전당 지상B구역 017 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 89.8
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor068",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space068",
+      "name": "예술의전당 지상B구역 018 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 82.3
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor069",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space069",
+      "name": "예술의전당 지상B구역 019 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 74.9
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor070",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space070",
+      "name": "예술의전당 지상B구역 020 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 99.9
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor071",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space071",
+      "name": "예술의전당 지상B구역 021 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 76.4
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor072",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space072",
+      "name": "예술의전당 지상B구역 022 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 92.0
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor073",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space073",
+      "name": "예술의전당 지상B구역 023 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 95.1
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor074",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space074",
+      "name": "예술의전당 지상B구역 024 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 90.6
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor075",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space075",
+      "name": "예술의전당 지상B구역 025 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 89.5
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor076",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space076",
+      "name": "예술의전당 지상B구역 026 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 77.0
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor077",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space077",
+      "name": "예술의전당 지상B구역 027 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 94.3
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor078",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space078",
+      "name": "예술의전당 지상B구역 028 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 95.2
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor079",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space079",
+      "name": "예술의전당 지상B구역 029 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 73.9
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor080",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space080",
+      "name": "예술의전당 지상B구역 030 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 87.5
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor081",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space081",
+      "name": "예술의전당 지상B구역 031 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 88.9
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor082",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space082",
+      "name": "예술의전당 지상B구역 032 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 76.1
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor083",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space083",
+      "name": "예술의전당 지상B구역 033 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 90.1
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor084",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space084",
+      "name": "예술의전당 지상B구역 034 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 94.6
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor085",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space085",
+      "name": "예술의전당 지상B구역 035 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 83.4
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor086",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space086",
+      "name": "예술의전당 지상B구역 036 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 80.5
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor087",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space087",
+      "name": "예술의전당 지상B구역 037 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 90.4
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor088",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space088",
+      "name": "예술의전당 지상B구역 038 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 91.1
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor089",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space089",
+      "name": "예술의전당 지상B구역 039 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 80.3
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor090",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space090",
+      "name": "예술의전당 지상B구역 040 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 81.2
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor091",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space091",
+      "name": "예술의전당 지상B구역 041 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 77.1
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor092",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space092",
+      "name": "예술의전당 지상B구역 042 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 95.9
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor093",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space093",
+      "name": "예술의전당 지상B구역 043 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 87.4
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor094",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space094",
+      "name": "예술의전당 지상B구역 044 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 75.8
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor095",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space095",
+      "name": "예술의전당 지상B구역 045 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 87.6
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor096",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space096",
+      "name": "예술의전당 지상B구역 046 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 94.9
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor097",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space097",
+      "name": "예술의전당 지상B구역 047 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 93.1
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor098",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space098",
+      "name": "예술의전당 지상B구역 048 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 87.6
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor099",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space099",
+      "name": "예술의전당 지상B구역 049 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 89.5
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor100",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space100",
+      "name": "예술의전당 지상B구역 050 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 73.5
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor101",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space101",
+      "name": "예술의전당 지상C구역 001 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 79.0
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor102",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space102",
+      "name": "예술의전당 지상C구역 002 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 76.6
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor103",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space103",
+      "name": "예술의전당 지상C구역 003 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 74.7
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor104",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space104",
+      "name": "예술의전당 지상C구역 004 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 74.0
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor105",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space105",
+      "name": "예술의전당 지상C구역 005 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 89.9
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor106",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space106",
+      "name": "예술의전당 지상C구역 006 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 96.5
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor107",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space107",
+      "name": "예술의전당 지상C구역 007 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 88.0
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor108",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space108",
+      "name": "예술의전당 지상C구역 008 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 82.5
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor109",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space109",
+      "name": "예술의전당 지상C구역 009 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 93.8
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor110",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space110",
+      "name": "예술의전당 지상C구역 010 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 79.9
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor111",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space111",
+      "name": "예술의전당 지상C구역 011 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 81.7
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor112",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space112",
+      "name": "예술의전당 지상C구역 012 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 72.5
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor113",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space113",
+      "name": "예술의전당 지상C구역 013 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 88.7
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor114",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space114",
+      "name": "예술의전당 지상C구역 014 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 79.3
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor115",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space115",
+      "name": "예술의전당 지상C구역 015 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 81.6
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor116",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space116",
+      "name": "예술의전당 지상C구역 016 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 85.2
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor117",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space117",
+      "name": "예술의전당 지상C구역 017 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 92.1
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor118",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space118",
+      "name": "예술의전당 지상C구역 018 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 76.4
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor119",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space119",
+      "name": "예술의전당 지상C구역 019 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 79.2
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor120",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space120",
+      "name": "예술의전당 지상C구역 020 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 76.7
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor121",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space121",
+      "name": "예술의전당 지상C구역 021 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 96.0
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor122",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space122",
+      "name": "예술의전당 지상C구역 022 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 77.5
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor123",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space123",
+      "name": "예술의전당 지상C구역 023 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 86.7
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor124",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space124",
+      "name": "예술의전당 지상C구역 024 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 93.2
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor125",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space125",
+      "name": "예술의전당 지상C구역 025 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 72.5
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor126",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space126",
+      "name": "예술의전당 지상C구역 026 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 82.3
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor127",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space127",
+      "name": "예술의전당 지상C구역 027 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 78.2
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor128",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space128",
+      "name": "예술의전당 지상C구역 028 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 84.1
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor129",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space129",
+      "name": "예술의전당 지상C구역 029 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 96.6
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor130",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space130",
+      "name": "예술의전당 지상C구역 030 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 86.2
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor131",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space131",
+      "name": "예술의전당 지상C구역 031 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 74.6
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor132",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space132",
+      "name": "예술의전당 지상C구역 032 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 98.2
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor133",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space133",
+      "name": "예술의전당 지상C구역 033 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 85.0
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor134",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space134",
+      "name": "예술의전당 지상C구역 034 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 86.2
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor135",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space135",
+      "name": "예술의전당 지상C구역 035 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 85.3
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor136",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space136",
+      "name": "예술의전당 지상C구역 036 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 77.1
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor137",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space137",
+      "name": "예술의전당 지상C구역 037 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 80.8
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor138",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space138",
+      "name": "예술의전당 지상C구역 038 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 97.5
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor139",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space139",
+      "name": "예술의전당 지상C구역 039 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 72.7
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor140",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space140",
+      "name": "예술의전당 지상C구역 040 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 76.7
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor141",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space141",
+      "name": "예술의전당 지하1층A구역 001 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 82.1
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor142",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space142",
+      "name": "예술의전당 지하1층A구역 002 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 70.0
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor143",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space143",
+      "name": "예술의전당 지하1층A구역 003 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 82.3
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor144",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space144",
+      "name": "예술의전당 지하1층A구역 004 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 71.8
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor145",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space145",
+      "name": "예술의전당 지하1층A구역 005 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 74.3
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor146",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space146",
+      "name": "예술의전당 지하1층A구역 006 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 85.1
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor147",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space147",
+      "name": "예술의전당 지하1층A구역 007 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 97.4
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor148",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space148",
+      "name": "예술의전당 지하1층A구역 008 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 76.9
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor149",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space149",
+      "name": "예술의전당 지하1층A구역 009 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 88.4
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor150",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space150",
+      "name": "예술의전당 지하1층A구역 010 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 87.9
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor151",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space151",
+      "name": "예술의전당 지하1층A구역 011 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 87.5
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor152",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space152",
+      "name": "예술의전당 지하1층A구역 012 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 99.6
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor153",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space153",
+      "name": "예술의전당 지하1층A구역 013 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 82.5
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor154",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space154",
+      "name": "예술의전당 지하1층A구역 014 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 82.3
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor155",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space155",
+      "name": "예술의전당 지하1층A구역 015 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 78.5
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor156",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space156",
+      "name": "예술의전당 지하1층A구역 016 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 87.3
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor157",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space157",
+      "name": "예술의전당 지하1층A구역 017 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 94.7
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor158",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space158",
+      "name": "예술의전당 지하1층A구역 018 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 91.4
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor159",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space159",
+      "name": "예술의전당 지하1층A구역 019 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 86.2
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor160",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space160",
+      "name": "예술의전당 지하1층A구역 020 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 81.3
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor161",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space161",
+      "name": "예술의전당 지하1층A구역 021 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 99.6
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor162",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space162",
+      "name": "예술의전당 지하1층A구역 022 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 87.1
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor163",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space163",
+      "name": "예술의전당 지하1층A구역 023 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 78.9
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor164",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space164",
+      "name": "예술의전당 지하1층A구역 024 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 85.8
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor165",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space165",
+      "name": "예술의전당 지하1층A구역 025 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 88.8
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor166",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space166",
+      "name": "예술의전당 지하1층A구역 026 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 83.0
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor167",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space167",
+      "name": "예술의전당 지하1층A구역 027 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 97.4
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor168",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space168",
+      "name": "예술의전당 지하1층A구역 028 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 71.8
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor169",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space169",
+      "name": "예술의전당 지하1층A구역 029 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 96.4
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor170",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space170",
+      "name": "예술의전당 지하1층A구역 030 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 81.9
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor171",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space171",
+      "name": "예술의전당 지하1층A구역 031 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 79.0
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor172",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space172",
+      "name": "예술의전당 지하1층A구역 032 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 91.7
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor173",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space173",
+      "name": "예술의전당 지하1층A구역 033 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 71.0
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor174",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space174",
+      "name": "예술의전당 지하1층A구역 034 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 94.6
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor175",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space175",
+      "name": "예술의전당 지하1층A구역 035 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 85.4
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor176",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space176",
+      "name": "예술의전당 지하1층A구역 036 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 94.2
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor177",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space177",
+      "name": "예술의전당 지하1층A구역 037 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 91.3
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor178",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space178",
+      "name": "예술의전당 지하1층A구역 038 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 92.5
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor179",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space179",
+      "name": "예술의전당 지하1층A구역 039 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 73.3
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor180",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space180",
+      "name": "예술의전당 지하1층A구역 040 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 93.0
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor181",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space181",
+      "name": "예술의전당 지하1층A구역 041 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 86.6
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor182",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space182",
+      "name": "예술의전당 지하1층A구역 042 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 84.2
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor183",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space183",
+      "name": "예술의전당 지하1층A구역 043 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 93.4
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor184",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space184",
+      "name": "예술의전당 지하1층A구역 044 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 88.7
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor185",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space185",
+      "name": "예술의전당 지하1층A구역 045 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 86.6
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor186",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space186",
+      "name": "예술의전당 지하1층A구역 046 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 70.5
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor187",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space187",
+      "name": "예술의전당 지하1층A구역 047 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 91.2
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor188",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space188",
+      "name": "예술의전당 지하1층A구역 048 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 73.0
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor189",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space189",
+      "name": "예술의전당 지하1층A구역 049 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 76.8
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor190",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space190",
+      "name": "예술의전당 지하1층A구역 050 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 82.6
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor191",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space191",
+      "name": "예술의전당 지하1층B구역 001 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 87.8
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor192",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space192",
+      "name": "예술의전당 지하1층B구역 002 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 76.8
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor193",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space193",
+      "name": "예술의전당 지하1층B구역 003 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 99.6
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor194",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space194",
+      "name": "예술의전당 지하1층B구역 004 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 77.1
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor195",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space195",
+      "name": "예술의전당 지하1층B구역 005 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 82.7
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor196",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space196",
+      "name": "예술의전당 지하1층B구역 006 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 89.3
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor197",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space197",
+      "name": "예술의전당 지하1층B구역 007 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 91.3
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor198",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space198",
+      "name": "예술의전당 지하1층B구역 008 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 86.5
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor199",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space199",
+      "name": "예술의전당 지하1층B구역 009 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 70.6
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor200",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space200",
+      "name": "예술의전당 지하1층B구역 010 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 85.0
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor201",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space201",
+      "name": "예술의전당 지하1층B구역 011 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 83.4
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor202",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space202",
+      "name": "예술의전당 지하1층B구역 012 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 88.0
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor203",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space203",
+      "name": "예술의전당 지하1층B구역 013 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 77.6
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor204",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space204",
+      "name": "예술의전당 지하1층B구역 014 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 82.9
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor205",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space205",
+      "name": "예술의전당 지하1층B구역 015 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 95.7
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor206",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space206",
+      "name": "예술의전당 지하1층B구역 016 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 88.1
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor207",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space207",
+      "name": "예술의전당 지하1층B구역 017 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 89.3
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor208",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space208",
+      "name": "예술의전당 지하1층B구역 018 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 72.5
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor209",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space209",
+      "name": "예술의전당 지하1층B구역 019 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 79.1
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor210",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space210",
+      "name": "예술의전당 지하1층B구역 020 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 85.0
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor211",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space211",
+      "name": "예술의전당 지하1층B구역 021 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 91.9
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor212",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space212",
+      "name": "예술의전당 지하1층B구역 022 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 72.8
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor213",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space213",
+      "name": "예술의전당 지하1층B구역 023 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 94.0
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor214",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space214",
+      "name": "예술의전당 지하1층B구역 024 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 98.5
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor215",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space215",
+      "name": "예술의전당 지하1층B구역 025 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 97.2
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor216",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space216",
+      "name": "예술의전당 지하1층B구역 026 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 94.1
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor217",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space217",
+      "name": "예술의전당 지하1층B구역 027 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 71.5
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor218",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space218",
+      "name": "예술의전당 지하1층B구역 028 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 83.7
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor219",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space219",
+      "name": "예술의전당 지하1층B구역 029 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 82.8
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor220",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space220",
+      "name": "예술의전당 지하1층B구역 030 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 86.8
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor221",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space221",
+      "name": "예술의전당 지하1층B구역 031 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 97.6
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor222",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space222",
+      "name": "예술의전당 지하1층B구역 032 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 70.5
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor223",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space223",
+      "name": "예술의전당 지하1층B구역 033 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 84.0
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor224",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space224",
+      "name": "예술의전당 지하1층B구역 034 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 76.1
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor225",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space225",
+      "name": "예술의전당 지하1층B구역 035 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 99.4
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor226",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space226",
+      "name": "예술의전당 지하1층B구역 036 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 88.2
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor227",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space227",
+      "name": "예술의전당 지하1층B구역 037 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 93.3
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor228",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space228",
+      "name": "예술의전당 지하1층B구역 038 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 92.1
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor229",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space229",
+      "name": "예술의전당 지하1층B구역 039 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 94.8
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor230",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space230",
+      "name": "예술의전당 지하1층B구역 040 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 92.9
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor231",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space231",
+      "name": "예술의전당 지하1층B구역 041 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 89.7
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor232",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space232",
+      "name": "예술의전당 지하1층B구역 042 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 94.1
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor233",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space233",
+      "name": "예술의전당 지하1층B구역 043 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 99.4
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor234",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space234",
+      "name": "예술의전당 지하1층B구역 044 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 75.1
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor235",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space235",
+      "name": "예술의전당 지하1층B구역 045 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 95.7
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor236",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space236",
+      "name": "예술의전당 지하1층B구역 046 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 73.2
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor237",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space237",
+      "name": "예술의전당 지하1층B구역 047 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 79.5
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor238",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space238",
+      "name": "예술의전당 지하1층B구역 048 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 78.1
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor239",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space239",
+      "name": "예술의전당 지하1층B구역 049 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 99.5
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor240",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space240",
+      "name": "예술의전당 지하1층B구역 050 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 90.2
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor241",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space241",
+      "name": "예술의전당 지하2층A구역 001 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 91.0
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor242",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space242",
+      "name": "예술의전당 지하2층A구역 002 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 87.6
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor243",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space243",
+      "name": "예술의전당 지하2층A구역 003 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 92.4
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor244",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space244",
+      "name": "예술의전당 지하2층A구역 004 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 86.7
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor245",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space245",
+      "name": "예술의전당 지하2층A구역 005 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 79.3
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor246",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space246",
+      "name": "예술의전당 지하2층A구역 006 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 74.5
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor247",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space247",
+      "name": "예술의전당 지하2층A구역 007 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 96.4
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor248",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space248",
+      "name": "예술의전당 지하2층A구역 008 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 96.1
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor249",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space249",
+      "name": "예술의전당 지하2층A구역 009 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 95.2
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor250",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space250",
+      "name": "예술의전당 지하2층A구역 010 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 72.7
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor251",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space251",
+      "name": "예술의전당 지하2층A구역 011 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 77.9
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor252",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space252",
+      "name": "예술의전당 지하2층A구역 012 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 87.6
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor253",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space253",
+      "name": "예술의전당 지하2층A구역 013 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 78.1
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor254",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space254",
+      "name": "예술의전당 지하2층A구역 014 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 94.5
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor255",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space255",
+      "name": "예술의전당 지하2층A구역 015 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 93.7
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor256",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space256",
+      "name": "예술의전당 지하2층A구역 016 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 90.7
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor257",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space257",
+      "name": "예술의전당 지하2층A구역 017 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 91.4
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor258",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space258",
+      "name": "예술의전당 지하2층A구역 018 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 73.7
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor259",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space259",
+      "name": "예술의전당 지하2층A구역 019 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 98.4
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor260",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space260",
+      "name": "예술의전당 지하2층A구역 020 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 82.9
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor261",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space261",
+      "name": "예술의전당 지하2층A구역 021 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 76.8
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor262",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space262",
+      "name": "예술의전당 지하2층A구역 022 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 82.2
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor263",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space263",
+      "name": "예술의전당 지하2층A구역 023 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 78.3
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor264",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space264",
+      "name": "예술의전당 지하2층A구역 024 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 71.0
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor265",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space265",
+      "name": "예술의전당 지하2층A구역 025 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 99.0
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor266",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space266",
+      "name": "예술의전당 지하2층A구역 026 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 86.0
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor267",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space267",
+      "name": "예술의전당 지하2층A구역 027 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 74.1
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor268",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space268",
+      "name": "예술의전당 지하2층A구역 028 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 97.5
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor269",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space269",
+      "name": "예술의전당 지하2층A구역 029 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 86.1
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor270",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space270",
+      "name": "예술의전당 지하2층A구역 030 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 86.8
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor271",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space271",
+      "name": "예술의전당 지하2층A구역 031 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 86.2
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor272",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space272",
+      "name": "예술의전당 지하2층A구역 032 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 78.6
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor273",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space273",
+      "name": "예술의전당 지하2층A구역 033 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 83.3
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor274",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space274",
+      "name": "예술의전당 지하2층A구역 034 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 96.8
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor275",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space275",
+      "name": "예술의전당 지하2층A구역 035 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 84.6
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor276",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space276",
+      "name": "예술의전당 지하2층A구역 036 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 76.6
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor277",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space277",
+      "name": "예술의전당 지하2층A구역 037 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 89.7
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor278",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space278",
+      "name": "예술의전당 지하2층A구역 038 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 71.9
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor279",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space279",
+      "name": "예술의전당 지하2층A구역 039 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 90.5
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor280",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space280",
+      "name": "예술의전당 지하2층A구역 040 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 93.2
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor281",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space281",
+      "name": "예술의전당 지하2층A구역 041 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 85.2
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor282",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space282",
+      "name": "예술의전당 지하2층A구역 042 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 83.1
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor283",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space283",
+      "name": "예술의전당 지하2층A구역 043 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 99.3
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor284",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space284",
+      "name": "예술의전당 지하2층A구역 044 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 92.3
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor285",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space285",
+      "name": "예술의전당 지하2층A구역 045 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 89.9
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor286",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space286",
+      "name": "예술의전당 지하2층A구역 046 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 93.7
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor287",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space287",
+      "name": "예술의전당 지하2층A구역 047 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 70.3
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor288",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space288",
+      "name": "예술의전당 지하2층A구역 048 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 77.5
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor289",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space289",
+      "name": "예술의전당 지하2층A구역 049 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 85.7
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor290",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space290",
+      "name": "예술의전당 지하2층A구역 050 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 87.1
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor291",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space291",
+      "name": "예술의전당 지하2층B구역 001 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 71.6
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor292",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space292",
+      "name": "예술의전당 지하2층B구역 002 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 74.1
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor293",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space293",
+      "name": "예술의전당 지하2층B구역 003 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 73.5
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor294",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space294",
+      "name": "예술의전당 지하2층B구역 004 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 79.3
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor295",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space295",
+      "name": "예술의전당 지하2층B구역 005 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 88.9
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor296",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space296",
+      "name": "예술의전당 지하2층B구역 006 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 73.8
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor297",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space297",
+      "name": "예술의전당 지하2층B구역 007 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 70.1
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor298",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space298",
+      "name": "예술의전당 지하2층B구역 008 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 95.1
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor299",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space299",
+      "name": "예술의전당 지하2층B구역 009 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 90.0
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor300",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space300",
+      "name": "예술의전당 지하2층B구역 010 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 87.2
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor301",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space301",
+      "name": "예술의전당 지하2층B구역 011 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 91.1
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor302",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space302",
+      "name": "예술의전당 지하2층B구역 012 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 70.4
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor303",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space303",
+      "name": "예술의전당 지하2층B구역 013 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 91.8
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor304",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space304",
+      "name": "예술의전당 지하2층B구역 014 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 81.2
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor305",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space305",
+      "name": "예술의전당 지하2층B구역 015 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 90.4
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor306",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space306",
+      "name": "예술의전당 지하2층B구역 016 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 84.2
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor307",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space307",
+      "name": "예술의전당 지하2층B구역 017 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 81.7
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor308",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space308",
+      "name": "예술의전당 지하2층B구역 018 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 87.5
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor309",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space309",
+      "name": "예술의전당 지하2층B구역 019 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 72.0
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor310",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space310",
+      "name": "예술의전당 지하2층B구역 020 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 71.1
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor311",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space311",
+      "name": "예술의전당 지하2층B구역 021 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 70.9
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor312",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space312",
+      "name": "예술의전당 지하2층B구역 022 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 83.5
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor313",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space313",
+      "name": "예술의전당 지하2층B구역 023 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 82.3
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor314",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space314",
+      "name": "예술의전당 지하2층B구역 024 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 93.9
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor315",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space315",
+      "name": "예술의전당 지하2층B구역 025 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 91.0
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor316",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space316",
+      "name": "예술의전당 지하2층B구역 026 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 89.4
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor317",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space317",
+      "name": "예술의전당 지하2층B구역 027 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 94.3
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor318",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space318",
+      "name": "예술의전당 지하2층B구역 028 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 94.5
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor319",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space319",
+      "name": "예술의전당 지하2층B구역 029 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 75.4
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor320",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space320",
+      "name": "예술의전당 지하2층B구역 030 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 85.8
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor321",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space321",
+      "name": "예술의전당 지하2층B구역 031 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 88.8
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor322",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space322",
+      "name": "예술의전당 지하2층B구역 032 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 73.6
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor323",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space323",
+      "name": "예술의전당 지하2층B구역 033 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 98.5
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor324",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space324",
+      "name": "예술의전당 지하2층B구역 034 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 81.7
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor325",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space325",
+      "name": "예술의전당 지하2층B구역 035 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 96.6
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor326",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space326",
+      "name": "예술의전당 지하2층B구역 036 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 94.5
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor327",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space327",
+      "name": "예술의전당 지하2층B구역 037 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 80.7
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor328",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space328",
+      "name": "예술의전당 지하2층B구역 038 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 73.0
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor329",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space329",
+      "name": "예술의전당 지하2층B구역 039 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 95.0
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor330",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space330",
+      "name": "예술의전당 지하2층B구역 040 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 82.9
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor331",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space331",
+      "name": "예술의전당 지하2층B구역 041 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 92.8
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor332",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space332",
+      "name": "예술의전당 지하2층B구역 042 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 77.5
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor333",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space333",
+      "name": "예술의전당 지하2층B구역 043 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 96.2
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor334",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space334",
+      "name": "예술의전당 지하2층B구역 044 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 78.9
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor335",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space335",
+      "name": "예술의전당 지하2층B구역 045 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 85.2
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor336",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space336",
+      "name": "예술의전당 지하2층B구역 046 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 88.3
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor337",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space337",
+      "name": "예술의전당 지하2층B구역 047 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 72.2
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor338",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space338",
+      "name": "예술의전당 지하2층B구역 048 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 73.1
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor339",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space339",
+      "name": "예술의전당 지하2층B구역 049 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 86.3
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor340",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space340",
+      "name": "예술의전당 지하2층B구역 050 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 83.1
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor341",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space341",
+      "name": "예술의전당 지상D구역 001 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 81.0
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor342",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space342",
+      "name": "예술의전당 지상D구역 002 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 93.0
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor343",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space343",
+      "name": "예술의전당 지상D구역 003 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 70.7
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor344",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space344",
+      "name": "예술의전당 지상D구역 004 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 95.7
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor345",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space345",
+      "name": "예술의전당 지상D구역 005 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 88.2
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor346",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space346",
+      "name": "예술의전당 지상D구역 006 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 72.1
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor347",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space347",
+      "name": "예술의전당 지상D구역 007 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 72.6
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor348",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space348",
+      "name": "예술의전당 지상D구역 008 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 97.2
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor349",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space349",
+      "name": "예술의전당 지상D구역 009 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 84.9
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor350",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space350",
+      "name": "예술의전당 지상D구역 010 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 80.6
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor351",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space351",
+      "name": "예술의전당 지상D구역 011 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 77.6
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor352",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space352",
+      "name": "예술의전당 지상D구역 012 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 80.2
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor353",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space353",
+      "name": "예술의전당 지상D구역 013 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 77.8
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor354",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space354",
+      "name": "예술의전당 지상D구역 014 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 90.8
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor355",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space355",
+      "name": "예술의전당 지상D구역 015 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 92.3
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor356",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space356",
+      "name": "예술의전당 지상D구역 016 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 80.7
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor357",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space357",
+      "name": "예술의전당 지상D구역 017 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 95.3
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor358",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space358",
+      "name": "예술의전당 지상D구역 018 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 83.8
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor359",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space359",
+      "name": "예술의전당 지상D구역 019 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "active"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 96.6
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Sensor360",
+    "definition": "com.example.smartparking:Sensor:1.0.0",
+    "attributes": {
+      "spaceId": "smartParking:Space360",
+      "name": "예술의전당 지상D구역 020 센서",
+      "type": "초음파"
+    },
+    "features": {
+      "status": {
+        "properties": {
+          "value": "inactive"
+        }
+      },
+      "batteryLevel": {
+        "properties": {
+          "value": 82.5
+        }
+      }
+    }
+  }
+]

@@ -1,0 +1,43 @@
+{
+  "scenarios": [
+{
+  "id": "facility_zone_v1",
+  "description": "시설상태모니터 → 존점유현황 순차 실행 예제",
+  "steps": [
+    {
+      "name": "Facility",
+      "fmu_path": "myfmu/FacilityStatusMonitor.fmu",
+      "initial_json": "./json/01_facility_example.json",
+      "set_vars": {
+        "facility_json": "$initial_json",
+        "target_thingId": "smartParking:Facility1"
+      },
+      "outputs": ["facility_thingId", "facility_isOpen"],
+      "run": {"start": 0, "stop": 10, "dt": 1},
+      "type_overrides": {
+        "facility_thingId": "String",
+        "facility_isOpen":  "Boolean"
+      }
+    },
+    {
+      "name": "Zone",
+      "fmu_path": "myfmu/ZoneOccupancy.fmu",
+      "initial_json": "./json/02_zone_example.json",
+      "set_vars": {
+        "facilityId": "@Facility.facility_thingId",
+        "facility_isOpen": "@Facility.facility_isOpen",
+        "mode": "all",
+        "batch_events_seq": 17
+      },
+      "outputs": ["zones_snapshot_json", "zones_count"],
+      "run": {"start": 0, "stop": 10, "dt": 1},
+      "type_overrides": {
+        "zones_snapshot_json" : "String",
+        "zones_count" : "Integer"
+      }
+    }
+  ]
+}
+
+  ]
+}

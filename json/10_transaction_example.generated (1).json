@@ -1,0 +1,402 @@
+[
+  {
+    "thingId": "smartParking:Transaction001",
+    "definition": "com.example.smartparking:Transaction:1.0.0",
+    "attributes": {
+      "facilityId": "smartParking:Facility1",
+      "spaceId": "smartParking:Space248",
+      "vehicleId": "smartParking:Vehicle092",
+      "entryTime": "2025-10-31T16:57:20Z",
+      "exitTime": "2025-10-31T18:22:20Z",
+      "amount": 2000,
+      "paymentMethod": "Credit Card"
+    },
+    "features": {
+      "paymentStatus": {
+        "properties": {
+          "value": "completed"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Transaction002",
+    "definition": "com.example.smartparking:Transaction:1.0.0",
+    "attributes": {
+      "facilityId": "smartParking:Facility1",
+      "spaceId": "smartParking:Space172",
+      "vehicleId": "smartParking:Vehicle089",
+      "entryTime": "2025-11-01T02:05:00Z",
+      "exitTime": "2025-11-01T02:49:00Z",
+      "amount": 1000,
+      "paymentMethod": "Cash"
+    },
+    "features": {
+      "paymentStatus": {
+        "properties": {
+          "value": "completed"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Transaction003",
+    "definition": "com.example.smartparking:Transaction:1.0.0",
+    "attributes": {
+      "facilityId": "smartParking:Facility1",
+      "spaceId": "smartParking:Space190",
+      "vehicleId": "smartParking:Vehicle004",
+      "entryTime": "2025-10-31T22:14:12Z",
+      "exitTime": "2025-11-01T09:20:12Z",
+      "amount": 12000,
+      "paymentMethod": "Cash"
+    },
+    "features": {
+      "paymentStatus": {
+        "properties": {
+          "value": "completed"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Transaction004",
+    "definition": "com.example.smartparking:Transaction:1.0.0",
+    "attributes": {
+      "facilityId": "smartParking:Facility1",
+      "spaceId": "smartParking:Space256",
+      "vehicleId": "smartParking:Vehicle099",
+      "entryTime": "2025-11-01T03:22:29Z",
+      "exitTime": "2025-11-01T10:29:29Z",
+      "amount": 8000,
+      "paymentMethod": "Cash"
+    },
+    "features": {
+      "paymentStatus": {
+        "properties": {
+          "value": "completed"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Transaction005",
+    "definition": "com.example.smartparking:Transaction:1.0.0",
+    "attributes": {
+      "facilityId": "smartParking:Facility1",
+      "spaceId": "smartParking:Space066",
+      "vehicleId": "smartParking:Vehicle023",
+      "entryTime": "2025-10-31T21:19:38Z",
+      "exitTime": "2025-11-01T00:00:38Z",
+      "amount": 3000,
+      "paymentMethod": "Cash"
+    },
+    "features": {
+      "paymentStatus": {
+        "properties": {
+          "value": "completed"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Transaction006",
+    "definition": "com.example.smartparking:Transaction:1.0.0",
+    "attributes": {
+      "facilityId": "smartParking:Facility1",
+      "spaceId": "smartParking:Space345",
+      "vehicleId": "smartParking:Vehicle012",
+      "entryTime": "2025-11-01T09:38:35Z",
+      "exitTime": "2025-11-01T14:41:35Z",
+      "amount": 6000,
+      "paymentMethod": "Cash"
+    },
+    "features": {
+      "paymentStatus": {
+        "properties": {
+          "value": "completed"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Transaction007",
+    "definition": "com.example.smartparking:Transaction:1.0.0",
+    "attributes": {
+      "facilityId": "smartParking:Facility1",
+      "spaceId": "smartParking:Space166",
+      "vehicleId": "smartParking:Vehicle098",
+      "entryTime": "2025-11-01T13:50:28Z",
+      "exitTime": "2025-11-02T01:17:28Z",
+      "amount": 12000,
+      "paymentMethod": "Cash"
+    },
+    "features": {
+      "paymentStatus": {
+        "properties": {
+          "value": "completed"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Transaction008",
+    "definition": "com.example.smartparking:Transaction:1.0.0",
+    "attributes": {
+      "facilityId": "smartParking:Facility1",
+      "spaceId": "smartParking:Space139",
+      "vehicleId": "smartParking:Vehicle064",
+      "entryTime": "2025-10-31T22:33:22Z",
+      "exitTime": "2025-11-01T07:27:22Z",
+      "amount": 9000,
+      "paymentMethod": "Credit Card"
+    },
+    "features": {
+      "paymentStatus": {
+        "properties": {
+          "value": "completed"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Transaction009",
+    "definition": "com.example.smartparking:Transaction:1.0.0",
+    "attributes": {
+      "facilityId": "smartParking:Facility1",
+      "spaceId": "smartParking:Space103",
+      "vehicleId": "smartParking:Vehicle057",
+      "entryTime": "2025-10-31T21:53:42Z",
+      "exitTime": "2025-11-01T06:59:42Z",
+      "amount": 10000,
+      "paymentMethod": "Credit Card"
+    },
+    "features": {
+      "paymentStatus": {
+        "properties": {
+          "value": "completed"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Transaction010",
+    "definition": "com.example.smartparking:Transaction:1.0.0",
+    "attributes": {
+      "facilityId": "smartParking:Facility1",
+      "spaceId": "smartParking:Space123",
+      "vehicleId": "smartParking:Vehicle069",
+      "entryTime": "2025-10-31T21:43:42Z",
+      "exitTime": "2025-11-01T03:54:42Z",
+      "amount": 7000,
+      "paymentMethod": "Credit Card"
+    },
+    "features": {
+      "paymentStatus": {
+        "properties": {
+          "value": "completed"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Transaction011",
+    "definition": "com.example.smartparking:Transaction:1.0.0",
+    "attributes": {
+      "facilityId": "smartParking:Facility1",
+      "spaceId": "0",
+      "vehicleId": "smartParking:Vehicle038",
+      "entryTime": "2025-10-31T15:10:20Z",
+      "exitTime": "0",
+      "amount": 0,
+      "paymentMethod": "0"
+    },
+    "features": {
+      "paymentStatus": {
+        "properties": {
+          "value": "0"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Transaction012",
+    "definition": "com.example.smartparking:Transaction:1.0.0",
+    "attributes": {
+      "facilityId": "smartParking:Facility1",
+      "spaceId": "0",
+      "vehicleId": "smartParking:Vehicle073",
+      "entryTime": "2025-10-31T23:42:32Z",
+      "exitTime": "0",
+      "amount": 0,
+      "paymentMethod": "0"
+    },
+    "features": {
+      "paymentStatus": {
+        "properties": {
+          "value": "0"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Transaction013",
+    "definition": "com.example.smartparking:Transaction:1.0.0",
+    "attributes": {
+      "facilityId": "smartParking:Facility1",
+      "spaceId": "0",
+      "vehicleId": "smartParking:Vehicle044",
+      "entryTime": "2025-11-01T11:44:48Z",
+      "exitTime": "0",
+      "amount": 0,
+      "paymentMethod": "0"
+    },
+    "features": {
+      "paymentStatus": {
+        "properties": {
+          "value": "0"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Transaction014",
+    "definition": "com.example.smartparking:Transaction:1.0.0",
+    "attributes": {
+      "facilityId": "smartParking:Facility1",
+      "spaceId": "0",
+      "vehicleId": "smartParking:Vehicle025",
+      "entryTime": "2025-10-31T20:18:19Z",
+      "exitTime": "0",
+      "amount": 0,
+      "paymentMethod": "0"
+    },
+    "features": {
+      "paymentStatus": {
+        "properties": {
+          "value": "0"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Transaction015",
+    "definition": "com.example.smartparking:Transaction:1.0.0",
+    "attributes": {
+      "facilityId": "smartParking:Facility1",
+      "spaceId": "0",
+      "vehicleId": "smartParking:Vehicle058",
+      "entryTime": "2025-11-01T04:38:29Z",
+      "exitTime": "0",
+      "amount": 0,
+      "paymentMethod": "0"
+    },
+    "features": {
+      "paymentStatus": {
+        "properties": {
+          "value": "0"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Transaction016",
+    "definition": "com.example.smartparking:Transaction:1.0.0",
+    "attributes": {
+      "facilityId": "smartParking:Facility1",
+      "spaceId": "0",
+      "vehicleId": "smartParking:Vehicle007",
+      "entryTime": "2025-10-31T22:40:07Z",
+      "exitTime": "0",
+      "amount": 0,
+      "paymentMethod": "0"
+    },
+    "features": {
+      "paymentStatus": {
+        "properties": {
+          "value": "0"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Transaction017",
+    "definition": "com.example.smartparking:Transaction:1.0.0",
+    "attributes": {
+      "facilityId": "smartParking:Facility1",
+      "spaceId": "0",
+      "vehicleId": "smartParking:Vehicle050",
+      "entryTime": "2025-11-01T12:18:12Z",
+      "exitTime": "0",
+      "amount": 0,
+      "paymentMethod": "0"
+    },
+    "features": {
+      "paymentStatus": {
+        "properties": {
+          "value": "0"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Transaction018",
+    "definition": "com.example.smartparking:Transaction:1.0.0",
+    "attributes": {
+      "facilityId": "smartParking:Facility1",
+      "spaceId": "0",
+      "vehicleId": "smartParking:Vehicle062",
+      "entryTime": "2025-10-31T16:51:24Z",
+      "exitTime": "0",
+      "amount": 0,
+      "paymentMethod": "0"
+    },
+    "features": {
+      "paymentStatus": {
+        "properties": {
+          "value": "0"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Transaction019",
+    "definition": "com.example.smartparking:Transaction:1.0.0",
+    "attributes": {
+      "facilityId": "smartParking:Facility1",
+      "spaceId": "0",
+      "vehicleId": "smartParking:Vehicle072",
+      "entryTime": "2025-11-01T01:41:19Z",
+      "exitTime": "0",
+      "amount": 0,
+      "paymentMethod": "0"
+    },
+    "features": {
+      "paymentStatus": {
+        "properties": {
+          "value": "0"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Transaction020",
+    "definition": "com.example.smartparking:Transaction:1.0.0",
+    "attributes": {
+      "facilityId": "smartParking:Facility1",
+      "spaceId": "0",
+      "vehicleId": "smartParking:Vehicle100",
+      "entryTime": "2025-11-01T12:11:52Z",
+      "exitTime": "0",
+      "amount": 0,
+      "paymentMethod": "0"
+    },
+    "features": {
+      "paymentStatus": {
+        "properties": {
+          "value": "0"
+        }
+      }
+    }
+  }
+]

@@ -1,0 +1,1602 @@
+[
+  {
+    "thingId": "smartParking:Vehicle001",
+    "definition": "com.example.smartparking:Vehicle:1.0.0",
+    "attributes": {
+      "userId": "com.example.smartparking:user001",
+      "type": "전기차",
+      "licensePlate": "275아6786"
+    },
+    "features": {
+      "location": {
+        "properties": {
+          "value": "smartParking:Facility1"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Vehicle002",
+    "definition": "com.example.smartparking:Vehicle:1.0.0",
+    "attributes": {
+      "userId": "com.example.smartparking:user002",
+      "type": "경유차",
+      "licensePlate": "181카6859"
+    },
+    "features": {
+      "location": {
+        "properties": {
+          "value": "smartParking:Facility1"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Vehicle003",
+    "definition": "com.example.smartparking:Vehicle:1.0.0",
+    "attributes": {
+      "userId": "com.example.smartparking:user003",
+      "type": "휘발유차",
+      "licensePlate": "864나3257"
+    },
+    "features": {
+      "location": {
+        "properties": {
+          "value": "smartParking:Facility1"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Vehicle004",
+    "definition": "com.example.smartparking:Vehicle:1.0.0",
+    "attributes": {
+      "userId": "com.example.smartparking:user004",
+      "type": "전기차",
+      "licensePlate": "776마9369"
+    },
+    "features": {
+      "location": {
+        "properties": {
+          "value": "smartParking:Facility1"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Vehicle005",
+    "definition": "com.example.smartparking:Vehicle:1.0.0",
+    "attributes": {
+      "userId": "com.example.smartparking:user005",
+      "type": "경유차",
+      "licensePlate": "654자1722"
+    },
+    "features": {
+      "location": {
+        "properties": {
+          "value": "smartParking:Facility1"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Vehicle006",
+    "definition": "com.example.smartparking:Vehicle:1.0.0",
+    "attributes": {
+      "userId": "com.example.smartparking:user006",
+      "type": "휘발유차",
+      "licensePlate": "472사8022"
+    },
+    "features": {
+      "location": {
+        "properties": {
+          "value": "smartParking:Facility1"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Vehicle007",
+    "definition": "com.example.smartparking:Vehicle:1.0.0",
+    "attributes": {
+      "userId": "com.example.smartparking:user007",
+      "type": "전기차",
+      "licensePlate": "443나3996"
+    },
+    "features": {
+      "location": {
+        "properties": {
+          "value": "smartParking:Facility1"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Vehicle008",
+    "definition": "com.example.smartparking:Vehicle:1.0.0",
+    "attributes": {
+      "userId": "com.example.smartparking:user008",
+      "type": "경유차",
+      "licensePlate": "204타7349"
+    },
+    "features": {
+      "location": {
+        "properties": {
+          "value": "smartParking:Facility1"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Vehicle009",
+    "definition": "com.example.smartparking:Vehicle:1.0.0",
+    "attributes": {
+      "userId": "com.example.smartparking:user009",
+      "type": "휘발유차",
+      "licensePlate": "198파5552"
+    },
+    "features": {
+      "location": {
+        "properties": {
+          "value": "smartParking:Facility1"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Vehicle010",
+    "definition": "com.example.smartparking:Vehicle:1.0.0",
+    "attributes": {
+      "userId": "com.example.smartparking:user010",
+      "type": "전기차",
+      "licensePlate": "146하8521"
+    },
+    "features": {
+      "location": {
+        "properties": {
+          "value": "smartParking:Facility1"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Vehicle011",
+    "definition": "com.example.smartparking:Vehicle:1.0.0",
+    "attributes": {
+      "userId": "com.example.smartparking:user011",
+      "type": "경유차",
+      "licensePlate": "391자2149"
+    },
+    "features": {
+      "location": {
+        "properties": {
+          "value": "smartParking:Facility1"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Vehicle012",
+    "definition": "com.example.smartparking:Vehicle:1.0.0",
+    "attributes": {
+      "userId": "com.example.smartparking:user012",
+      "type": "휘발유차",
+      "licensePlate": "271하4450"
+    },
+    "features": {
+      "location": {
+        "properties": {
+          "value": "smartParking:Facility1"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Vehicle013",
+    "definition": "com.example.smartparking:Vehicle:1.0.0",
+    "attributes": {
+      "userId": "com.example.smartparking:user013",
+      "type": "전기차",
+      "licensePlate": "482다9287"
+    },
+    "features": {
+      "location": {
+        "properties": {
+          "value": "smartParking:Facility1"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Vehicle014",
+    "definition": "com.example.smartparking:Vehicle:1.0.0",
+    "attributes": {
+      "userId": "com.example.smartparking:user014",
+      "type": "경유차",
+      "licensePlate": "686자4101"
+    },
+    "features": {
+      "location": {
+        "properties": {
+          "value": "smartParking:Facility1"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Vehicle015",
+    "definition": "com.example.smartparking:Vehicle:1.0.0",
+    "attributes": {
+      "userId": "com.example.smartparking:user015",
+      "type": "휘발유차",
+      "licensePlate": "507자2668"
+    },
+    "features": {
+      "location": {
+        "properties": {
+          "value": "smartParking:Facility1"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Vehicle016",
+    "definition": "com.example.smartparking:Vehicle:1.0.0",
+    "attributes": {
+      "userId": "com.example.smartparking:user016",
+      "type": "전기차",
+      "licensePlate": "162차8772"
+    },
+    "features": {
+      "location": {
+        "properties": {
+          "value": "smartParking:Facility1"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Vehicle017",
+    "definition": "com.example.smartparking:Vehicle:1.0.0",
+    "attributes": {
+      "userId": "com.example.smartparking:user017",
+      "type": "경유차",
+      "licensePlate": "710마6652"
+    },
+    "features": {
+      "location": {
+        "properties": {
+          "value": "smartParking:Facility1"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Vehicle018",
+    "definition": "com.example.smartparking:Vehicle:1.0.0",
+    "attributes": {
+      "userId": "com.example.smartparking:user018",
+      "type": "휘발유차",
+      "licensePlate": "274자9441"
+    },
+    "features": {
+      "location": {
+        "properties": {
+          "value": "smartParking:Facility1"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Vehicle019",
+    "definition": "com.example.smartparking:Vehicle:1.0.0",
+    "attributes": {
+      "userId": "com.example.smartparking:user019",
+      "type": "전기차",
+      "licensePlate": "519마4108"
+    },
+    "features": {
+      "location": {
+        "properties": {
+          "value": "smartParking:Facility1"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Vehicle020",
+    "definition": "com.example.smartparking:Vehicle:1.0.0",
+    "attributes": {
+      "userId": "com.example.smartparking:user020",
+      "type": "경유차",
+      "licensePlate": "246가7078"
+    },
+    "features": {
+      "location": {
+        "properties": {
+          "value": "smartParking:Facility1"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Vehicle021",
+    "definition": "com.example.smartparking:Vehicle:1.0.0",
+    "attributes": {
+      "userId": "com.example.smartparking:user021",
+      "type": "휘발유차",
+      "licensePlate": "370차8918"
+    },
+    "features": {
+      "location": {
+        "properties": {
+          "value": "smartParking:Facility1"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Vehicle022",
+    "definition": "com.example.smartparking:Vehicle:1.0.0",
+    "attributes": {
+      "userId": "com.example.smartparking:user022",
+      "type": "전기차",
+      "licensePlate": "778아2823"
+    },
+    "features": {
+      "location": {
+        "properties": {
+          "value": "smartParking:Facility1"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Vehicle023",
+    "definition": "com.example.smartparking:Vehicle:1.0.0",
+    "attributes": {
+      "userId": "com.example.smartparking:user023",
+      "type": "경유차",
+      "licensePlate": "513차4292"
+    },
+    "features": {
+      "location": {
+        "properties": {
+          "value": "smartParking:Facility1"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Vehicle024",
+    "definition": "com.example.smartparking:Vehicle:1.0.0",
+    "attributes": {
+      "userId": "com.example.smartparking:user024",
+      "type": "휘발유차",
+      "licensePlate": "766자6933"
+    },
+    "features": {
+      "location": {
+        "properties": {
+          "value": "smartParking:Facility1"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Vehicle025",
+    "definition": "com.example.smartparking:Vehicle:1.0.0",
+    "attributes": {
+      "userId": "com.example.smartparking:user025",
+      "type": "전기차",
+      "licensePlate": "905카9428"
+    },
+    "features": {
+      "location": {
+        "properties": {
+          "value": "smartParking:Facility1"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Vehicle026",
+    "definition": "com.example.smartparking:Vehicle:1.0.0",
+    "attributes": {
+      "userId": "com.example.smartparking:user026",
+      "type": "경유차",
+      "licensePlate": "920라5705"
+    },
+    "features": {
+      "location": {
+        "properties": {
+          "value": "smartParking:Facility1"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Vehicle027",
+    "definition": "com.example.smartparking:Vehicle:1.0.0",
+    "attributes": {
+      "userId": "com.example.smartparking:user027",
+      "type": "휘발유차",
+      "licensePlate": "825타7521"
+    },
+    "features": {
+      "location": {
+        "properties": {
+          "value": "smartParking:Facility1"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Vehicle028",
+    "definition": "com.example.smartparking:Vehicle:1.0.0",
+    "attributes": {
+      "userId": "com.example.smartparking:user028",
+      "type": "전기차",
+      "licensePlate": "876나9732"
+    },
+    "features": {
+      "location": {
+        "properties": {
+          "value": "smartParking:Facility1"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Vehicle029",
+    "definition": "com.example.smartparking:Vehicle:1.0.0",
+    "attributes": {
+      "userId": "com.example.smartparking:user029",
+      "type": "경유차",
+      "licensePlate": "865파1457"
+    },
+    "features": {
+      "location": {
+        "properties": {
+          "value": "smartParking:Facility1"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Vehicle030",
+    "definition": "com.example.smartparking:Vehicle:1.0.0",
+    "attributes": {
+      "userId": "com.example.smartparking:user030",
+      "type": "휘발유차",
+      "licensePlate": "254파8341"
+    },
+    "features": {
+      "location": {
+        "properties": {
+          "value": "smartParking:Facility1"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Vehicle031",
+    "definition": "com.example.smartparking:Vehicle:1.0.0",
+    "attributes": {
+      "userId": "com.example.smartparking:user031",
+      "type": "전기차",
+      "licensePlate": "121라2226"
+    },
+    "features": {
+      "location": {
+        "properties": {
+          "value": "smartParking:Facility1"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Vehicle032",
+    "definition": "com.example.smartparking:Vehicle:1.0.0",
+    "attributes": {
+      "userId": "com.example.smartparking:user032",
+      "type": "경유차",
+      "licensePlate": "979라7007"
+    },
+    "features": {
+      "location": {
+        "properties": {
+          "value": "smartParking:Facility1"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Vehicle033",
+    "definition": "com.example.smartparking:Vehicle:1.0.0",
+    "attributes": {
+      "userId": "com.example.smartparking:user033",
+      "type": "휘발유차",
+      "licensePlate": "834하9317"
+    },
+    "features": {
+      "location": {
+        "properties": {
+          "value": "smartParking:Facility1"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Vehicle034",
+    "definition": "com.example.smartparking:Vehicle:1.0.0",
+    "attributes": {
+      "userId": "com.example.smartparking:user034",
+      "type": "전기차",
+      "licensePlate": "685다1660"
+    },
+    "features": {
+      "location": {
+        "properties": {
+          "value": "smartParking:Facility1"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Vehicle035",
+    "definition": "com.example.smartparking:Vehicle:1.0.0",
+    "attributes": {
+      "userId": "com.example.smartparking:user035",
+      "type": "경유차",
+      "licensePlate": "898마4492"
+    },
+    "features": {
+      "location": {
+        "properties": {
+          "value": "smartParking:Facility1"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Vehicle036",
+    "definition": "com.example.smartparking:Vehicle:1.0.0",
+    "attributes": {
+      "userId": "com.example.smartparking:user036",
+      "type": "휘발유차",
+      "licensePlate": "772가4131"
+    },
+    "features": {
+      "location": {
+        "properties": {
+          "value": "smartParking:Facility1"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Vehicle037",
+    "definition": "com.example.smartparking:Vehicle:1.0.0",
+    "attributes": {
+      "userId": "com.example.smartparking:user037",
+      "type": "전기차",
+      "licensePlate": "152아4766"
+    },
+    "features": {
+      "location": {
+        "properties": {
+          "value": "smartParking:Facility1"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Vehicle038",
+    "definition": "com.example.smartparking:Vehicle:1.0.0",
+    "attributes": {
+      "userId": "com.example.smartparking:user038",
+      "type": "경유차",
+      "licensePlate": "844바5626"
+    },
+    "features": {
+      "location": {
+        "properties": {
+          "value": "smartParking:Facility1"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Vehicle039",
+    "definition": "com.example.smartparking:Vehicle:1.0.0",
+    "attributes": {
+      "userId": "com.example.smartparking:user039",
+      "type": "휘발유차",
+      "licensePlate": "531가9314"
+    },
+    "features": {
+      "location": {
+        "properties": {
+          "value": "smartParking:Facility1"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Vehicle040",
+    "definition": "com.example.smartparking:Vehicle:1.0.0",
+    "attributes": {
+      "userId": "com.example.smartparking:user040",
+      "type": "전기차",
+      "licensePlate": "364마4382"
+    },
+    "features": {
+      "location": {
+        "properties": {
+          "value": "smartParking:Facility1"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Vehicle041",
+    "definition": "com.example.smartparking:Vehicle:1.0.0",
+    "attributes": {
+      "userId": "com.example.smartparking:user041",
+      "type": "경유차",
+      "licensePlate": "630카4977"
+    },
+    "features": {
+      "location": {
+        "properties": {
+          "value": "smartParking:Facility1"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Vehicle042",
+    "definition": "com.example.smartparking:Vehicle:1.0.0",
+    "attributes": {
+      "userId": "com.example.smartparking:user042",
+      "type": "휘발유차",
+      "licensePlate": "302바4491"
+    },
+    "features": {
+      "location": {
+        "properties": {
+          "value": "smartParking:Facility1"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Vehicle043",
+    "definition": "com.example.smartparking:Vehicle:1.0.0",
+    "attributes": {
+      "userId": "com.example.smartparking:user043",
+      "type": "전기차",
+      "licensePlate": "705다8861"
+    },
+    "features": {
+      "location": {
+        "properties": {
+          "value": "smartParking:Facility1"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Vehicle044",
+    "definition": "com.example.smartparking:Vehicle:1.0.0",
+    "attributes": {
+      "userId": "com.example.smartparking:user044",
+      "type": "경유차",
+      "licensePlate": "499마6782"
+    },
+    "features": {
+      "location": {
+        "properties": {
+          "value": "smartParking:Facility1"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Vehicle045",
+    "definition": "com.example.smartparking:Vehicle:1.0.0",
+    "attributes": {
+      "userId": "com.example.smartparking:user045",
+      "type": "휘발유차",
+      "licensePlate": "813마4533"
+    },
+    "features": {
+      "location": {
+        "properties": {
+          "value": "smartParking:Facility1"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Vehicle046",
+    "definition": "com.example.smartparking:Vehicle:1.0.0",
+    "attributes": {
+      "userId": "com.example.smartparking:user046",
+      "type": "전기차",
+      "licensePlate": "410파5339"
+    },
+    "features": {
+      "location": {
+        "properties": {
+          "value": "smartParking:Facility1"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Vehicle047",
+    "definition": "com.example.smartparking:Vehicle:1.0.0",
+    "attributes": {
+      "userId": "com.example.smartparking:user047",
+      "type": "경유차",
+      "licensePlate": "798바8069"
+    },
+    "features": {
+      "location": {
+        "properties": {
+          "value": "smartParking:Facility1"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Vehicle048",
+    "definition": "com.example.smartparking:Vehicle:1.0.0",
+    "attributes": {
+      "userId": "com.example.smartparking:user048",
+      "type": "휘발유차",
+      "licensePlate": "216바2704"
+    },
+    "features": {
+      "location": {
+        "properties": {
+          "value": "smartParking:Facility1"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Vehicle049",
+    "definition": "com.example.smartparking:Vehicle:1.0.0",
+    "attributes": {
+      "userId": "com.example.smartparking:user049",
+      "type": "전기차",
+      "licensePlate": "700카5374"
+    },
+    "features": {
+      "location": {
+        "properties": {
+          "value": "smartParking:Facility1"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Vehicle050",
+    "definition": "com.example.smartparking:Vehicle:1.0.0",
+    "attributes": {
+      "userId": "com.example.smartparking:user050",
+      "type": "경유차",
+      "licensePlate": "475마3415"
+    },
+    "features": {
+      "location": {
+        "properties": {
+          "value": "smartParking:Facility1"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Vehicle051",
+    "definition": "com.example.smartparking:Vehicle:1.0.0",
+    "attributes": {
+      "userId": "com.example.smartparking:user051",
+      "type": "휘발유차",
+      "licensePlate": "480사6529"
+    },
+    "features": {
+      "location": {
+        "properties": {
+          "value": "smartParking:Facility1"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Vehicle052",
+    "definition": "com.example.smartparking:Vehicle:1.0.0",
+    "attributes": {
+      "userId": "com.example.smartparking:user052",
+      "type": "전기차",
+      "licensePlate": "476타1939"
+    },
+    "features": {
+      "location": {
+        "properties": {
+          "value": "smartParking:Facility1"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Vehicle053",
+    "definition": "com.example.smartparking:Vehicle:1.0.0",
+    "attributes": {
+      "userId": "com.example.smartparking:user053",
+      "type": "경유차",
+      "licensePlate": "174차9865"
+    },
+    "features": {
+      "location": {
+        "properties": {
+          "value": "smartParking:Facility1"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Vehicle054",
+    "definition": "com.example.smartparking:Vehicle:1.0.0",
+    "attributes": {
+      "userId": "com.example.smartparking:user054",
+      "type": "휘발유차",
+      "licensePlate": "419바9758"
+    },
+    "features": {
+      "location": {
+        "properties": {
+          "value": "smartParking:Facility1"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Vehicle055",
+    "definition": "com.example.smartparking:Vehicle:1.0.0",
+    "attributes": {
+      "userId": "com.example.smartparking:user055",
+      "type": "전기차",
+      "licensePlate": "360가5320"
+    },
+    "features": {
+      "location": {
+        "properties": {
+          "value": "smartParking:Facility1"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Vehicle056",
+    "definition": "com.example.smartparking:Vehicle:1.0.0",
+    "attributes": {
+      "userId": "com.example.smartparking:user056",
+      "type": "경유차",
+      "licensePlate": "474자8874"
+    },
+    "features": {
+      "location": {
+        "properties": {
+          "value": "smartParking:Facility1"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Vehicle057",
+    "definition": "com.example.smartparking:Vehicle:1.0.0",
+    "attributes": {
+      "userId": "com.example.smartparking:user057",
+      "type": "휘발유차",
+      "licensePlate": "788마7434"
+    },
+    "features": {
+      "location": {
+        "properties": {
+          "value": "smartParking:Facility1"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Vehicle058",
+    "definition": "com.example.smartparking:Vehicle:1.0.0",
+    "attributes": {
+      "userId": "com.example.smartparking:user058",
+      "type": "전기차",
+      "licensePlate": "750타5787"
+    },
+    "features": {
+      "location": {
+        "properties": {
+          "value": "smartParking:Facility1"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Vehicle059",
+    "definition": "com.example.smartparking:Vehicle:1.0.0",
+    "attributes": {
+      "userId": "com.example.smartparking:user059",
+      "type": "경유차",
+      "licensePlate": "213하2486"
+    },
+    "features": {
+      "location": {
+        "properties": {
+          "value": "smartParking:Facility1"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Vehicle060",
+    "definition": "com.example.smartparking:Vehicle:1.0.0",
+    "attributes": {
+      "userId": "com.example.smartparking:user060",
+      "type": "휘발유차",
+      "licensePlate": "438나7651"
+    },
+    "features": {
+      "location": {
+        "properties": {
+          "value": "smartParking:Facility1"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Vehicle061",
+    "definition": "com.example.smartparking:Vehicle:1.0.0",
+    "attributes": {
+      "userId": "com.example.smartparking:user061",
+      "type": "전기차",
+      "licensePlate": "567바4618"
+    },
+    "features": {
+      "location": {
+        "properties": {
+          "value": "smartParking:Facility1"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Vehicle062",
+    "definition": "com.example.smartparking:Vehicle:1.0.0",
+    "attributes": {
+      "userId": "com.example.smartparking:user062",
+      "type": "경유차",
+      "licensePlate": "630차8797"
+    },
+    "features": {
+      "location": {
+        "properties": {
+          "value": "smartParking:Facility1"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Vehicle063",
+    "definition": "com.example.smartparking:Vehicle:1.0.0",
+    "attributes": {
+      "userId": "com.example.smartparking:user063",
+      "type": "휘발유차",
+      "licensePlate": "980마5251"
+    },
+    "features": {
+      "location": {
+        "properties": {
+          "value": "smartParking:Facility1"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Vehicle064",
+    "definition": "com.example.smartparking:Vehicle:1.0.0",
+    "attributes": {
+      "userId": "com.example.smartparking:user064",
+      "type": "전기차",
+      "licensePlate": "582차8422"
+    },
+    "features": {
+      "location": {
+        "properties": {
+          "value": "smartParking:Facility1"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Vehicle065",
+    "definition": "com.example.smartparking:Vehicle:1.0.0",
+    "attributes": {
+      "userId": "com.example.smartparking:user065",
+      "type": "경유차",
+      "licensePlate": "929다4733"
+    },
+    "features": {
+      "location": {
+        "properties": {
+          "value": "smartParking:Facility1"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Vehicle066",
+    "definition": "com.example.smartparking:Vehicle:1.0.0",
+    "attributes": {
+      "userId": "com.example.smartparking:user066",
+      "type": "휘발유차",
+      "licensePlate": "781다5332"
+    },
+    "features": {
+      "location": {
+        "properties": {
+          "value": "smartParking:Facility1"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Vehicle067",
+    "definition": "com.example.smartparking:Vehicle:1.0.0",
+    "attributes": {
+      "userId": "com.example.smartparking:user067",
+      "type": "전기차",
+      "licensePlate": "211바2545"
+    },
+    "features": {
+      "location": {
+        "properties": {
+          "value": "smartParking:Facility1"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Vehicle068",
+    "definition": "com.example.smartparking:Vehicle:1.0.0",
+    "attributes": {
+      "userId": "com.example.smartparking:user068",
+      "type": "경유차",
+      "licensePlate": "702라7447"
+    },
+    "features": {
+      "location": {
+        "properties": {
+          "value": "smartParking:Facility1"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Vehicle069",
+    "definition": "com.example.smartparking:Vehicle:1.0.0",
+    "attributes": {
+      "userId": "com.example.smartparking:user069",
+      "type": "휘발유차",
+      "licensePlate": "129자9069"
+    },
+    "features": {
+      "location": {
+        "properties": {
+          "value": "smartParking:Facility1"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Vehicle070",
+    "definition": "com.example.smartparking:Vehicle:1.0.0",
+    "attributes": {
+      "userId": "com.example.smartparking:user070",
+      "type": "전기차",
+      "licensePlate": "124하5738"
+    },
+    "features": {
+      "location": {
+        "properties": {
+          "value": "smartParking:Facility1"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Vehicle071",
+    "definition": "com.example.smartparking:Vehicle:1.0.0",
+    "attributes": {
+      "userId": "com.example.smartparking:user071",
+      "type": "경유차",
+      "licensePlate": "235타5855"
+    },
+    "features": {
+      "location": {
+        "properties": {
+          "value": "smartParking:Facility1"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Vehicle072",
+    "definition": "com.example.smartparking:Vehicle:1.0.0",
+    "attributes": {
+      "userId": "com.example.smartparking:user072",
+      "type": "휘발유차",
+      "licensePlate": "519하4416"
+    },
+    "features": {
+      "location": {
+        "properties": {
+          "value": "smartParking:Facility1"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Vehicle073",
+    "definition": "com.example.smartparking:Vehicle:1.0.0",
+    "attributes": {
+      "userId": "com.example.smartparking:user073",
+      "type": "전기차",
+      "licensePlate": "998자3074"
+    },
+    "features": {
+      "location": {
+        "properties": {
+          "value": "smartParking:Facility1"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Vehicle074",
+    "definition": "com.example.smartparking:Vehicle:1.0.0",
+    "attributes": {
+      "userId": "com.example.smartparking:user074",
+      "type": "경유차",
+      "licensePlate": "202바5055"
+    },
+    "features": {
+      "location": {
+        "properties": {
+          "value": "smartParking:Facility1"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Vehicle075",
+    "definition": "com.example.smartparking:Vehicle:1.0.0",
+    "attributes": {
+      "userId": "com.example.smartparking:user075",
+      "type": "휘발유차",
+      "licensePlate": "635라5823"
+    },
+    "features": {
+      "location": {
+        "properties": {
+          "value": "smartParking:Facility1"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Vehicle076",
+    "definition": "com.example.smartparking:Vehicle:1.0.0",
+    "attributes": {
+      "userId": "com.example.smartparking:user076",
+      "type": "전기차",
+      "licensePlate": "294타4129"
+    },
+    "features": {
+      "location": {
+        "properties": {
+          "value": "smartParking:Facility1"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Vehicle077",
+    "definition": "com.example.smartparking:Vehicle:1.0.0",
+    "attributes": {
+      "userId": "com.example.smartparking:user077",
+      "type": "경유차",
+      "licensePlate": "197나3473"
+    },
+    "features": {
+      "location": {
+        "properties": {
+          "value": "smartParking:Facility1"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Vehicle078",
+    "definition": "com.example.smartparking:Vehicle:1.0.0",
+    "attributes": {
+      "userId": "com.example.smartparking:user078",
+      "type": "휘발유차",
+      "licensePlate": "690타2190"
+    },
+    "features": {
+      "location": {
+        "properties": {
+          "value": "smartParking:Facility1"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Vehicle079",
+    "definition": "com.example.smartparking:Vehicle:1.0.0",
+    "attributes": {
+      "userId": "com.example.smartparking:user079",
+      "type": "전기차",
+      "licensePlate": "807라8474"
+    },
+    "features": {
+      "location": {
+        "properties": {
+          "value": "smartParking:Facility1"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Vehicle080",
+    "definition": "com.example.smartparking:Vehicle:1.0.0",
+    "attributes": {
+      "userId": "com.example.smartparking:user080",
+      "type": "경유차",
+      "licensePlate": "261다1836"
+    },
+    "features": {
+      "location": {
+        "properties": {
+          "value": "smartParking:Facility1"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Vehicle081",
+    "definition": "com.example.smartparking:Vehicle:1.0.0",
+    "attributes": {
+      "userId": "com.example.smartparking:user081",
+      "type": "휘발유차",
+      "licensePlate": "223사1927"
+    },
+    "features": {
+      "location": {
+        "properties": {
+          "value": "smartParking:Facility1"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Vehicle082",
+    "definition": "com.example.smartparking:Vehicle:1.0.0",
+    "attributes": {
+      "userId": "com.example.smartparking:user082",
+      "type": "전기차",
+      "licensePlate": "764하8981"
+    },
+    "features": {
+      "location": {
+        "properties": {
+          "value": "smartParking:Facility1"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Vehicle083",
+    "definition": "com.example.smartparking:Vehicle:1.0.0",
+    "attributes": {
+      "userId": "com.example.smartparking:user083",
+      "type": "경유차",
+      "licensePlate": "575차4145"
+    },
+    "features": {
+      "location": {
+        "properties": {
+          "value": "smartParking:Facility1"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Vehicle084",
+    "definition": "com.example.smartparking:Vehicle:1.0.0",
+    "attributes": {
+      "userId": "com.example.smartparking:user084",
+      "type": "휘발유차",
+      "licensePlate": "299타8091"
+    },
+    "features": {
+      "location": {
+        "properties": {
+          "value": "smartParking:Facility1"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Vehicle085",
+    "definition": "com.example.smartparking:Vehicle:1.0.0",
+    "attributes": {
+      "userId": "com.example.smartparking:user085",
+      "type": "전기차",
+      "licensePlate": "171가8654"
+    },
+    "features": {
+      "location": {
+        "properties": {
+          "value": "smartParking:Facility1"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Vehicle086",
+    "definition": "com.example.smartparking:Vehicle:1.0.0",
+    "attributes": {
+      "userId": "com.example.smartparking:user086",
+      "type": "경유차",
+      "licensePlate": "198자1974"
+    },
+    "features": {
+      "location": {
+        "properties": {
+          "value": "smartParking:Facility1"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Vehicle087",
+    "definition": "com.example.smartparking:Vehicle:1.0.0",
+    "attributes": {
+      "userId": "com.example.smartparking:user087",
+      "type": "휘발유차",
+      "licensePlate": "784가3832"
+    },
+    "features": {
+      "location": {
+        "properties": {
+          "value": "smartParking:Facility1"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Vehicle088",
+    "definition": "com.example.smartparking:Vehicle:1.0.0",
+    "attributes": {
+      "userId": "com.example.smartparking:user088",
+      "type": "전기차",
+      "licensePlate": "177파7109"
+    },
+    "features": {
+      "location": {
+        "properties": {
+          "value": "smartParking:Facility1"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Vehicle089",
+    "definition": "com.example.smartparking:Vehicle:1.0.0",
+    "attributes": {
+      "userId": "com.example.smartparking:user089",
+      "type": "경유차",
+      "licensePlate": "741가6119"
+    },
+    "features": {
+      "location": {
+        "properties": {
+          "value": "smartParking:Facility1"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Vehicle090",
+    "definition": "com.example.smartparking:Vehicle:1.0.0",
+    "attributes": {
+      "userId": "com.example.smartparking:user090",
+      "type": "휘발유차",
+      "licensePlate": "241파6709"
+    },
+    "features": {
+      "location": {
+        "properties": {
+          "value": "smartParking:Facility1"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Vehicle091",
+    "definition": "com.example.smartparking:Vehicle:1.0.0",
+    "attributes": {
+      "userId": "com.example.smartparking:user091",
+      "type": "전기차",
+      "licensePlate": "546타9541"
+    },
+    "features": {
+      "location": {
+        "properties": {
+          "value": "smartParking:Facility1"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Vehicle092",
+    "definition": "com.example.smartparking:Vehicle:1.0.0",
+    "attributes": {
+      "userId": "com.example.smartparking:user092",
+      "type": "경유차",
+      "licensePlate": "842바1344"
+    },
+    "features": {
+      "location": {
+        "properties": {
+          "value": "smartParking:Facility1"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Vehicle093",
+    "definition": "com.example.smartparking:Vehicle:1.0.0",
+    "attributes": {
+      "userId": "com.example.smartparking:user093",
+      "type": "휘발유차",
+      "licensePlate": "829사2995"
+    },
+    "features": {
+      "location": {
+        "properties": {
+          "value": "smartParking:Facility1"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Vehicle094",
+    "definition": "com.example.smartparking:Vehicle:1.0.0",
+    "attributes": {
+      "userId": "com.example.smartparking:user094",
+      "type": "전기차",
+      "licensePlate": "614사6814"
+    },
+    "features": {
+      "location": {
+        "properties": {
+          "value": "smartParking:Facility1"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Vehicle095",
+    "definition": "com.example.smartparking:Vehicle:1.0.0",
+    "attributes": {
+      "userId": "com.example.smartparking:user095",
+      "type": "경유차",
+      "licensePlate": "714사2483"
+    },
+    "features": {
+      "location": {
+        "properties": {
+          "value": "smartParking:Facility1"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Vehicle096",
+    "definition": "com.example.smartparking:Vehicle:1.0.0",
+    "attributes": {
+      "userId": "com.example.smartparking:user096",
+      "type": "휘발유차",
+      "licensePlate": "932하3292"
+    },
+    "features": {
+      "location": {
+        "properties": {
+          "value": "smartParking:Facility1"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Vehicle097",
+    "definition": "com.example.smartparking:Vehicle:1.0.0",
+    "attributes": {
+      "userId": "com.example.smartparking:user097",
+      "type": "전기차",
+      "licensePlate": "179카5417"
+    },
+    "features": {
+      "location": {
+        "properties": {
+          "value": "smartParking:Facility1"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Vehicle098",
+    "definition": "com.example.smartparking:Vehicle:1.0.0",
+    "attributes": {
+      "userId": "com.example.smartparking:user098",
+      "type": "경유차",
+      "licensePlate": "373자8534"
+    },
+    "features": {
+      "location": {
+        "properties": {
+          "value": "smartParking:Facility1"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Vehicle099",
+    "definition": "com.example.smartparking:Vehicle:1.0.0",
+    "attributes": {
+      "userId": "com.example.smartparking:user099",
+      "type": "휘발유차",
+      "licensePlate": "761자1171"
+    },
+    "features": {
+      "location": {
+        "properties": {
+          "value": "smartParking:Facility1"
+        }
+      }
+    }
+  },
+  {
+    "thingId": "smartParking:Vehicle100",
+    "definition": "com.example.smartparking:Vehicle:1.0.0",
+    "attributes": {
+      "userId": "com.example.smartparking:user100",
+      "type": "전기차",
+      "licensePlate": "256사7095"
+    },
+    "features": {
+      "location": {
+        "properties": {
+          "value": "smartParking:Facility1"
+        }
+      }
+    }
+  }
+]
